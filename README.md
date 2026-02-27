@@ -2,6 +2,10 @@
 
 A production-grade wallet service for managing application-specific virtual credits (e.g., Gold Coins, Diamonds, Loyalty Points). Built with a **double-entry ledger** architecture for full auditability, **concurrent-safe transactions**, and **idempotent API operations**.
 
+> 🌐 **Live API**: [https://wallet-service-6gq4.onrender.com](https://wallet-service-6gq4.onrender.com)
+>
+> Try it: `curl https://wallet-service-6gq4.onrender.com/health`
+
 ## Tech Stack
 
 | Component | Choice | Rationale |
